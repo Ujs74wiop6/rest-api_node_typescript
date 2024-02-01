@@ -19,23 +19,23 @@ git clone git@github.com:Ujs74wiop6/rest-api_node_typescript.git
 Install yarn via npm
 
 ```bash
-npm install --global yarn
+npm install yarn
 ```
 
 Install dependencies of the project
 
 ```bash
-yarn install
+npx yarn install
 ```
 
 Run the project
 
 ```bash
-yarn start
+npx yarn start
 ```
 
 Run test of the project
 
 ```bash
-yarn test
+npx yarn test
 ```
