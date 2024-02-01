@@ -1,4 +1,4 @@
-# API Rest com Node.Js e TypeScript <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> + <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+# API Rest with Node.Js and TypeScript <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> + <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 
 ### Tools 
 
