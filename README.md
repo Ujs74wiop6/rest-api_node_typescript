@@ -16,6 +16,12 @@
 git clone git@github.com:Ujs74wiop6/rest-api_node_typescript.git
 ```
 
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kP_fnlOi8vpNMVxqXLkuq9WWK59v0k7BaHNFQG9iNA&s" width="80" height="80" > !
+In the root of the project, create the {.env} file and follow the {.env.example} model 
+This file will determine your project's environment variables, and one of the pieces of information we will use from this file is the port of your machine that will run the server
+
+---
+
 Install yarn via npm
 
 ```bash
